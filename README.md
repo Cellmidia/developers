@@ -18,7 +18,7 @@ Como se Candidatar
 Se você se convenceu que quer trabalhar na Cellmídia:
 
 * Realize um fork desse projeto;
-* Escolha um dos dois testes disponíveis no diretório **testes**
+* Escolha um dos dois testes disponíveis no diretório **[testes](testes)**
 * Faça um pull request ou caso você tenha alguma restrição em relação a enviar o pull-request publicamente, encaminhe o seu CV para [developers@cellmdidia.com.br](mailto:developers@cellmidia.com.br), com os testes em anexo, a versão do PHP utilizada e as suas dependências.
 
 Sinta-se a vontade para incluir QUALQUER coisa que você acredite que
