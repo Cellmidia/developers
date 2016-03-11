@@ -18,5 +18,8 @@ O estagiário tem como responsabilidade a busca de aprendizado e experiência pr
 #Perfil esperado
 
 - Sedento por conhecimento ao extremo (sempre pesquisando e perguntando);
-- Bom relacionamento com os colegas;
-- Boa comunicação oral e escrita;
+- Comunicação
+- Relacionamento Interpessoal
+- Organização e Responsabilidade
+- Comprometimento e Dedicação
+- Foco no resultado
