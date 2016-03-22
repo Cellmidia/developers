@@ -10,7 +10,7 @@ Oferecemos audiência, estratégia e ferramentas para a comunicação de marketi
 Vagas
 ==============================
 
-###Estágio em Desenvolvimento PHP
+###[Estágio em Desenvolvimento PHP](EstagioProgramacaoPHP.md)
 
 Como se Candidatar
 ==================
@@ -25,4 +25,4 @@ Sinta-se a vontade para incluir QUALQUER coisa que você acredite que
 vá ser bom pra sua imagem perante quem estará recebendo esses dados (twitter,
 facebook, github, sites online, outros trabalhos, etc).
 
-Essa vaga é para pessoas apaixonadas por desenvolvimento. Caso você seja um deles, entre em contato conosco. Mas se você estiver em busca apenas de retorno financeiro, existem outras oportunidades melhores... bancos, por exemplo.
+Essa vaga é para pessoas apaixonadas por desenvolvimento. Caso você seja um deles, entre em [contato conosco](mailto:developers@cellmidia.com.br). Mas se você estiver em busca apenas de retorno financeiro, existem outras oportunidades melhores... bancos, por exemplo.
